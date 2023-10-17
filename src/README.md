@@ -3,4 +3,4 @@
 
 ![Задание](app-homework.png)
 ![Задание](_task_project.png)
-<video>https://youtu.be/muSMlAn_1OE</video>
+<oembed>[https://www.youtube.com/embed/ID](https://youtu.be/muSMlAn_1OE)https://youtu.be/muSMlAn_1OE</oembed>
