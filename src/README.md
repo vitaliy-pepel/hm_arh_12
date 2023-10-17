@@ -1,13 +1,16 @@
 # Проект мессенджера.
 
 > Дизайн:
+
 ![Задание](app-homework.png)
 
-> Видео-демонстрация функционала: 
+> Видео-демонстрация функционала:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=muSMlAn_1OE" target="_blank"><img src="http://img.youtube.com/vi/muSMlAn_1OE/0.jpg" 
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="560" height="600" border="10" /></a>
 
 > Структура:
+
 ![Задание](_task_project.png)
 
 # Тестирование
